@@ -8,5 +8,6 @@ echo;
 set /p f2="After file: "
 
 fc /n %f1% %f2%
+pause > nul
 
 endlocal
