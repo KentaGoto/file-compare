@@ -5,8 +5,10 @@ setlocal enabledelayedexpansion
 set /p f1="Before file: "
 set /p f2="After file: "
 
+echo.
+
 fc /n %f1% %f2%
-echo Enter to finesh.
+echo Enter to finish.
 
 pause > nul
 
