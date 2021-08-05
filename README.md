@@ -1,8 +1,8 @@
 # file-compare 
 
 ## Description  
-- バッチファイルのファイル比較  
-- 文字コードANSI or Shift-jis (CP932)のみ対応
+- File comparison of BAT.  
+- Only supports character code ANSI or Shift-jis (CP932).
 
 ## Licence  
 MIT  
