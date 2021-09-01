@@ -8,7 +8,8 @@ set /p f2="After file: "
 echo.
 
 fc /n %f1% %f2%
-echo Enter to finish.
+
+echo Done!
 
 pause > nul
 
